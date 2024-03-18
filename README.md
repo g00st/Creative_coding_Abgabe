@@ -22,7 +22,7 @@
 ## Woche 7:
 1. [Partcile Systems](https://github.com/g00st/engine) Hab mir Compute shader und instanced Rendering angeschut um viele Partikel zu rendern, je nach größe kommt mein code mit 1000000+ partikeln klar https://www.youtube.com/watch?v=4vFx-FqYADQ
 ## Woche 8:
-1. [Agents and flocking](https://github.com/g00st/boids) Boids auf sleber basis wie partikel mit computeshader u. instanced rendering, bei 100000 boids ist trozdem schluss ohne weitere optimierungen https://www.youtube.com/watch?v=r5LoJ4foECo ^^
+1. [Agents and flocking](https://github.com/g00st/boids) Boids auf sleber basis wie partikel mit computeshader u. instanced rendering, bei 10000 boids ist trozdem schluss ohne weitere optimierungen https://www.youtube.com/watch?v=r5LoJ4foECo ^^
 
 
 # Projekt 2D Raymarcher:
